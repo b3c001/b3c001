@@ -6,7 +6,7 @@
   - 🛠️ Apaixonado por **Segurança Cibernética**, sempre em busca de novos desafios.
   - 💻 Conhecimento sólido em **Linux** e **Shell Script**.
   - 🌐 Estudo constante sobre **Redes TCP/IP**, e **Modelo OSI**.
-  - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **segurança** .
+  - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **segurança**.
   - 📝 Escrevo **blogs** e **write-ups** sobre segurança cibernética e desafios técnicos.
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+segurança;Desenvolvedor;Suporte+técnico;" alt="Typing SVG" /></a><br> 
