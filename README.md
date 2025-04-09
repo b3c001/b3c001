@@ -1,12 +1,12 @@
 ---
 
-## 💫 Sobre mim
+## 💫 Quem é 0xb3c001? 
 
   - 🚀 Estudante de **Eletrônica**
   - 🛠️ Apaixonado por **Segurança Cibernética**, sempre em busca de novos desafios.
   - 💻 Conhecimento sólido em **Linux** e **Shell Script**.
   - 🌐 Estudo constante sobre **Redes TCP/IP**, e **Modelo OSI**.
-  - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **Resposta a incidentes**.
+  - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **resposta a incidentes**.
   - 📝 Escrevo **blogs** e **write-ups** sobre segurança cibernética e desafios técnicos.
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+segurança;Desenvolvedor;Suporte+técnico;" alt="Typing SVG" /></a><br> 
@@ -36,7 +36,7 @@
 <div align="center">
 New tryhackme <br>
 <a href="https://tryhackme.com/p/b3c001"><img src="https://tryhackme-badges.s3.amazonaws.com/b3c001.png" alt="thm"></a>
- <br></br>
+<br></br>
 Tryhackme Old <br>
 <a href="https://tryhackme-images.s3.amazonaws.com/user-avatars/bb2abda0e77c0ace726a56d2ce08c0f0.png"><img src="https://tryhackme-badges.s3.amazonaws.com/CeloXSec.png" alt="TryHackMe"></a>
   
