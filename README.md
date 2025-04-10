@@ -25,10 +25,11 @@
 
 ## 🛠️ Stack Tecnológico
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ---
 
@@ -37,7 +38,7 @@
 <div align="center">
 Perfil no Tryhackme <br>
 <a href="https://tryhackme.com/p/b3c001"><img src="https://tryhackme-badges.s3.amazonaws.com/b3c001.png" alt="thm"></a>
-Perfil no Indeed
+
   
 ## 📈 Projetos
 
@@ -45,9 +46,9 @@ Perfil no Indeed
 [Kingster](https://github.com/b3c001/kingster): Controle de acesso em arquivos para ctfs linux based 👑**
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
   <a href="#"><img align="center" width="55%" title="Estatísticas no GitHub" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=b3c001&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
-  <a href="#"><img align="center" width="43.7%" title="Linguagens mais usadas>>" alt="Linguagens mais usadas>>" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3c001&langs_count=10&layout=compact&hide=HTML,CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/></a>
+  <a href="#"><img align="center" width="43.7%" title="Linguagens mais usadas>>" alt="Linguagens mais usadas>>" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3c001&langs_count=10&layout=compact&hide=HTML,CSS,SCSS,SHELL&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/></a>
 </div>
