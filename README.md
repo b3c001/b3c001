@@ -2,8 +2,6 @@
 
 ## 💫 Quem é 0xb3c001? 
 
-  >>
-
   - 🚀 Estudante de **Eletrônica**
   - 🛠️ Apaixonado por **Segurança Cibernética**, sempre em busca de novos desafios.
   - 💻 Conhecimento sólido em **Linux** e **Shell Script**.
