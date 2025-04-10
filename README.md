@@ -10,7 +10,7 @@
   - 📝 Escrevo **artigos** e **write-ups** sobre segurança cibernética e desafios técnicos.
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+segurança;Desenvolvedor;Suporte+técnico;" alt="Typing SVG" /></a><br> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+segurança;Desenvolvedor;Suporte+técnico;" alt="Typing SVG" /></a><br> </p>
 
 ---
 
