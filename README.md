@@ -10,13 +10,13 @@
   - 📝 Escrevo **artigos** e **write-ups** sobre segurança cibernética e desafios técnicos.
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+segurança;Desenvolvedor;Suporte+técnico;" alt="Typing SVG" /></a><br> </p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+seguranca;Desenvolvedor;Suporte+tecnico;" alt="Letrinhas digitando" /></a></br></p>
 
 ---
 
 ## 📝 O que estou aprendendo atualmente
 
--- **Rootkits LKM**: Construindo códigos linux kernel module em nivel de ring0 para controle persistente avançado.
+- **Rootkits LKM**: Construindo códigos linux kernel module em nivel de ring0 para controle persistente avançado.
 - **Segurança de redes**: Dissecando conceitos de firewall, VPNs e criptografia  voltados para a segurança digital.
 - **Automação**: Desenvolvendo projetos focados em automação de servidores e tarefas com Shell Script e Python.
 - **CFTV**: Desbravando o mundo dos circuitos fechados de  tv.
@@ -37,6 +37,7 @@
 <div align="center">
 Perfil no Tryhackme <br>
 <a href="https://tryhackme.com/p/b3c001"><img src="https://tryhackme-badges.s3.amazonaws.com/b3c001.png" alt="thm"></a>
+Perfil no Indeed
   
 ## 📈 Projetos
 
@@ -47,6 +48,6 @@ Perfil no Tryhackme <br>
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="#"><img align="center" width="55%" title="Estatísticas no GitHub" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=b3c001&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
+  <a href="#"><img align="center" width="55%" title="Estatísticas no GitHub" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=b3c001&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
   <a href="#"><img align="center" width="43.7%" title="Linguagens mais usadas>>" alt="Linguagens mais usadas>>" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3c001&langs_count=10&layout=compact&hide=HTML,CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/></a>
 </div>
