@@ -43,7 +43,7 @@ Perfil no Tryhackme <br>
 ## 📈 Projetos
 
 **👑
-[Kingster](https://github.com/b3c001/kingster): Controle de acesso em arquivos para ctfs linux based 👑**
+[Kingster](https://github.com/b3c001/kingster): Controle do arquivo king para Koth do THM Linux-based 👑**
 ---
 
 ## 📊 Estatísticas
