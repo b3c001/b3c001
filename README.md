@@ -1,6 +1,6 @@
 ---
 
-## 💫 Quem é 0xb3c001? 
+## 💎 Quem é 0xb3c001? 
 
   - 🚀 Estudante de **Eletrônica**
   - 🛠️ Apaixonado por **Segurança Cibernética**, sempre em busca de novos desafios.
@@ -19,11 +19,7 @@
 - **Rootkits LKM**: Construindo códigos linux kernel module em nivel de ring0 para controle persistente avançado.
 - **Segurança de redes**: Dissecando conceitos de firewall, VPNs e criptografia  voltados para a segurança digital.
 - **Automação**: Desenvolvendo projetos focados em automação de servidores e tarefas com Shell Script e Python.
-
 ---
-
----
-
 ## 🌐 Redes Sociais e Perfis
 
 <div align="center">
@@ -31,7 +27,7 @@ Perfil no Tryhackme <br>
 <a href="https://tryhackme.com/p/b3c001"><img src="https://tryhackme-badges.s3.amazonaws.com/b3c001.png?udpate=1" alt="thm"></a>
 
   
-## 📈 Projetos
+## 🇧🇷 Projetos
 
 **👑
 [Kingster](https://github.com/b3c001/kingster): Controle do arquivo king para Koth do THM Linux-based 👑**
@@ -39,7 +35,7 @@ Perfil no Tryhackme <br>
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
@@ -48,7 +44,7 @@ Perfil no Tryhackme <br>
 
 
 ---
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <a href="#"><img align="center" width="55%" title="Estatísticas no GitHub" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=b3c001&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
