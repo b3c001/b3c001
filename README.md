@@ -19,7 +19,23 @@
 - **Rootkits LKM**: Construindo códigos linux kernel module em nivel de ring0 para controle persistente avançado.
 - **Segurança de redes**: Dissecando conceitos de firewall, VPNs e criptografia  voltados para a segurança digital.
 - **Automação**: Desenvolvendo projetos focados em automação de servidores e tarefas com Shell Script e Python.
-- **CFTV**: Desbravando o mundo dos circuitos fechados de  tv.
+
+---
+
+---
+
+## 🌐 Redes Sociais e Perfis
+
+<div align="center">
+Perfil no Tryhackme <br>
+<a href="https://tryhackme.com/p/b3c001"><img src="https://tryhackme-badges.s3.amazonaws.com/b3c001.png?udpate=1" alt="thm"></a>
+
+  
+## 📈 Projetos
+
+**👑
+[Kingster](https://github.com/b3c001/kingster): Controle do arquivo king para Koth do THM Linux-based 👑**
+
 
 ---
 
@@ -32,20 +48,6 @@
 
 
 ---
-
-## 🌐 Redes Sociais e Perfis
-
-<div align="center">
-Perfil no Tryhackme <br>
-<a href="https://tryhackme.com/p/b3c001"><img src="https://tryhackme-badges.s3.amazonaws.com/b3c001.png" alt="thm"></a>
-
-  
-## 📈 Projetos
-
-**👑
-[Kingster](https://github.com/b3c001/kingster): Controle do arquivo king para Koth do THM Linux-based 👑**
----
-
 ## 📊 Estatísticas
 
 <div align="center">
