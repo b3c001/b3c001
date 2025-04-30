@@ -31,7 +31,7 @@ Perfil no Tryhackme <br>
 
 **👑
 [Kingster](https://github.com/b3c001/kingster): Controle do arquivo king para Koth do THM Linux-based 👑**
-
+**🐞 [Bico_LKM](https://github.com/b3c001/bico_lkm): Rootkit em nível de kernel (ring0) Loadable Kernel Module (LKM) com backdoor persistente (systemd) para ctf**
 
 ---
 
