@@ -7,7 +7,7 @@
   - 💻 Conhecimento sólido em **GNU/Linux** e **Shell Script**.
   - 🌐 Estudo constante sobre **Redes TCP/IP**, **Firewalls** e protocolos de comunicação.
   - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **análise de incidentes**.
-  - 📝 Escrevo **artigos (papers) ** e **write-ups** sobre Koth, Ctf, Exploits, todo o tipo de desafios técnicos, e sobre outros projetos eletronicos.
+  - 📝 Escrevo **artigos (papers) * e **write-ups** sobre Koth, Ctf, Exploits, todo o tipo de desafios técnicos, e sobre outros projetos eletronicos.
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+seguranca;Desenvolvedor;Suporte+tecnico;" alt="Letrinhas digitando" /></a></br></p>
