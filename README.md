@@ -1,13 +1,13 @@
 ---
 
 ## 💎 Quem é 0xb3c001? 
-
+  - 🤠 Sou um **white hat** 
   - 🚀 Estudante de **Eletrônica**
-  - 🛠️ Apaixonado por **Segurança Cibernética**, sempre em busca de novos desafios.
-  - 💻 Conhecimento sólido em **Linux** e **Shell Script**.
-  - 🌐 Estudo constante sobre **Redes TCP/IP**, e **Modelo OSI**.
-  - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **resposta a incidentes**.
-  - 📝 Escrevo **artigos** e **write-ups** sobre segurança cibernética e desafios técnicos.
+  - 🛠️ Apaixonado por **Cibernética**, sempre em busca de novos desafios.
+  - 💻 Conhecimento sólido em **GNU/Linux** e **Shell Script**.
+  - 🌐 Estudo constante sobre **Redes TCP/IP**, **Firewalls** e protocolos de comunicação.
+  - 🔍 Participo de **CTFs**, focando em **exploração de vulnerabilidades**, **engenharia reversa** e **análise de incidentes**.
+  - 📝 Escrevo **artigos (papers) ** e **write-ups** sobre Koth, Ctf, Exploits, todo o tipo de desafios técnicos, e sobre outros projetos eletronicos.
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+seguranca;Desenvolvedor;Suporte+tecnico;" alt="Letrinhas digitando" /></a></br></p>
@@ -18,7 +18,7 @@
 
 - **Rootkits LKM**: Construindo códigos linux kernel module em nivel de ring0 para controle persistente avançado.
 - **Segurança de redes**: Dissecando conceitos de firewall, VPNs e criptografia  voltados para a segurança digital.
-- **Automação**: Desenvolvendo projetos focados em automação de servidores e tarefas com Shell Script e Python.
+- **Webdev Front-end**: ainda vão me ver fazer um site decente :)
 ---
 ## 🌐 Redes Sociais e Perfis
 
@@ -33,7 +33,7 @@ Perfil no Tryhackme <br>
 [Kingster](https://github.com/b3c001/kingster): Controle do arquivo king para Koth do THM Linux-based 👑**
 
 
-**🐞 [Bico_LKM](https://github.com/b3c001/bico_lkm): Rootkit em nível de kernel (ring0) Loadable Kernel Module (LKM) com backdoor persistente (systemd) para ctf**
+**🐞 [Bico_LKM](https://github.com/b3c001/bico_lkm): Esboço de Rootkit em nível de kernel (ring0) Loadable Kernel Module (LKM) com backdoor persistente (systemd)**
 
 ---
 
