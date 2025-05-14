@@ -1,7 +1,7 @@
 ---
 
 ## 💎 Quem é 0xb3c001? 
-  - 🤠 Sou um **white hat** 
+  - 🤠 Sou um **Whitehat** 
   - 🚀 Estudante de **Eletrônica**
   - 🛠️ Apaixonado por **Cibernética**, sempre em busca de novos desafios.
   - 💻 Conhecimento sólido em **GNU/Linux** e **Shell Script**.
